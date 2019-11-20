@@ -2,7 +2,7 @@
 title: YogurtLsn's blog
 owner: "YogurtLsn"
 url: "https://YogurtLsn.github.io"
-baseurl: "/pRoJEct-NeGYa"
+baseurl: ""
 permalink: /:title/
 description: ""
 markdown: kramdown
@@ -10,8 +10,8 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: ""
-github: "YogurtLsn/pRoJEct-NeGYa"
+email: "lisn1995@163.com"
+github: "YogurtLsn/YogurtLsn.github.io"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "Designed by DeerRIDER, All Rights Reserved"
